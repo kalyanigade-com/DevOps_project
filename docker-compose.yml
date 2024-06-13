@@ -1,0 +1,5 @@
+services:
+  web:
+    image: jayesh510/app:1
+    ports:
+      - "9000:80" 
