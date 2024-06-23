@@ -1,5 +1,5 @@
 services:
   web:
-    image: jayesh510/app:1
+    image: kalyani98/app:1
     ports:
       - "9000:80" 
